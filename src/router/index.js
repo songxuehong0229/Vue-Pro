@@ -1,16 +1,22 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 // 插入模板
-import HelloWorld from '@/components/HelloWorld'
+import Home from '@/components/home'
+import MusicList from '@/components/musicList'
 
 Vue.use(Router)
 
 export default new Router({
-  routes: [
-    {
-      path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
-    }
-  ]
+    routes: [
+        {
+          path: '/',
+          name: 'home',
+          component: Home //首页
+        },
+        {
+          path:'/musicList',
+          name:'MusicList',
+          component:MusicList
+        }
+    ]
 })
