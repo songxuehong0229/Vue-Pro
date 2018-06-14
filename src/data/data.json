@@ -1,0 +1,1487 @@
+{
+    "state": 0,
+    "message": "",
+    "request_id": "0be2ecd815289443501042931e0b79",
+    "data": [
+      {
+        "song_id": 1801743401,
+        "song_name": "\u8d77\u98ce\u4e86",
+        "singers": "\u4e70\u8fa3\u6912\u4e5f\u7528\u5238",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1801512872,
+        "song_name": "\u6700\u7f8e\u7684\u671f\u5f85",
+        "singers": "\u5468\u7b14\u7545",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1801506264,
+        "song_name": "BINGBIAN\u75c5\u53d8 (\u5973\u58f0\u7248)",
+        "singers": "\u97a0\u6587\u5a34",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1795969110,
+        "song_name": "\u8ffd\u5149\u8005",
+        "singers": "\u5c91\u5b81\u513f",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1798142053,
+        "song_name": "\u8bf4\u6563\u5c31\u6563",
+        "singers": "\u8881\u5a05\u7ef4",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 1
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 1
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1795951854,
+        "song_name": "\u6211\u4eec\u4e0d\u4e00\u6837",
+        "singers": "\u5927\u58ee",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1796894991,
+        "song_name": "\u4e91\u70df\u6210\u96e8",
+        "singers": "\u623f\u4e1c\u7684\u732b",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1796909743,
+        "song_name": "\u5e7f\u4e1c\u7231\u60c5\u6545\u4e8b",
+        "singers": "\u5e7f\u4e1c\u96e8\u795e",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1792702528,
+        "song_name": "\u6210\u90fd",
+        "singers": "\u8d75\u96f7",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1801110174,
+        "song_name": "\u4f53\u9762",
+        "singers": "\u4e8e\u6587\u6587",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 1
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 1
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 1
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 1
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 1
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 1
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 1
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 1
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 1
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 1
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1795657795,
+        "song_name": "\u5168\u90e8\u90fd\u662f\u4f60",
+        "singers": "Dragon Pig;Cloud Wang;CNBALLER",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1802021909,
+        "song_name": "\u4f5b\u7cfb\u5c11\u5973",
+        "singers": "\u51af\u63d0\u83ab",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1796917655,
+        "song_name": "9420",
+        "singers": "\u9ea6\u5c0f\u515c",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1802137052,
+        "song_name": "\u79bb\u4eba\u6101",
+        "singers": "\u674e\u8881\u6770",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1803074810,
+        "song_name": "\u623f\u95f4 (\u65b0\u7248)",
+        "singers": "\u5218\u745e\u7426",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1776156051,
+        "song_name": "\u544a\u767d\u6c14\u7403",
+        "singers": "\u5468\u6770\u4f26",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1796043280,
+        "song_name": "\u4e5d\u5f20\u673a",
+        "singers": "\u53f6\u70ab\u6e05",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1802961845,
+        "song_name": "\u5b66\u732b\u53eb",
+        "singers": "\u5c0f\u5cf0\u5cf0;\u5c0f\u6f58\u6f58",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 4
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 4
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1776290685,
+        "song_name": "\u5c0f\u534a",
+        "singers": "\u9648\u7c92",
+        "need_pay_flag": 2,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      },
+      {
+        "song_id": 1795932844,
+        "song_name": "\u518d\u4e5f\u6ca1\u6709",
+        "singers": "Ryan.B;AY\u6768\u4f6c\u53c1",
+        "need_pay_flag": 0,
+        "purview_roles": [
+          {
+            "quality": "e",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 0
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 0
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "operation_list": [
+              {
+                "purpose": 1,
+                "upgrade_role": 3
+              },
+              {
+                "purpose": 2,
+                "upgrade_role": 3
+              }
+            ]
+          }
+        ],
+        "play_counts": 0
+      }
+    ]
+  }
