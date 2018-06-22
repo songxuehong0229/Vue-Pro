@@ -6,9 +6,9 @@
         </header>
         <nav class="navs"> 
             <div class="nav navigation" >
-                <span v-for="(tab,index) in tabsName" v-bind:key="{index}"> 
+                <!-- <span v-for="(tab,index) in tabsName" v-bind:key="{index}"> 
                     <a href="#" class="item" @click="tabsSwitch(index)" v-bind:class="{active:tab.isActive}">{{tab.name}}</a>  
-                </span>
+                </span> -->
                 <!-- <div class="cards">  
                     <div class="tab-card" style="display: block;">新歌</div>  
                     <div class="tab-card">排行榜</div>  
@@ -16,17 +16,21 @@
                     <div class="tab-card">歌手</div>  
                     <div class="tab-card">搜索</div>  
                 </div>   -->
-                <!-- <router-link to="/new" class="item active">新歌</router-link>
+                <router-link to="/new" class="item active">新歌</router-link>
                 <router-link to="/chart" class="item">排行榜</router-link>
                 <router-link to="/collect" class="item">歌单</router-link>
                 <router-link to="/artist" class="item">歌手</router-link>
-                <router-link to="/search" class="item">搜索</router-link> -->
+                <router-link to="/search" class="item">搜索</router-link>
+                
                 <!-- <a class="item nav-new active"  href="#" >新歌</a>  -->
                 <!-- <a class="item nav-chart"  href="#" >排行榜</a> 
                 <a class="item nav-collect"  href="#">歌单</a> 
                 <a class="item nav-artist"  href="#">歌手</a> 
                 <a class="item nav-search"  href="#">搜索</a>  -->
             </div> 
+            <div>
+                <router-view></router-view>
+            </div>
         </nav>
         <!-- <v-MusicList ></v-MusicList > -->
     </div>
@@ -133,7 +137,7 @@ export default {
         display: -ms-box;
         font-size: 1.6rem;
     }
-    /* .navs .nav .item {
+    .navs .nav .item {
         -webkit-box-flex: 1;
         -moz-box-flex: 1;
         flex: 1;
@@ -147,6 +151,6 @@ export default {
     .navs .nav .active {
         color: #ff5800;
         box-shadow: inset 0 -2px 0 #ff5800;
-    } */
+    }
     
 </style>
